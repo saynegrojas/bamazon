@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "MySQL database for bamazon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saynegrojas/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saynegrojas/bamazon/issues"
+  },
+  "homepage": "https://github.com/saynegrojas/bamazon#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
