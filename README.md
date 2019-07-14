@@ -16,6 +16,8 @@ If the user inputs a quantity above the stock quantity, then it will provide an 
 
 The application then calculates the total amount and displays on terminal.
 
+Screen shots:
 
+https://drive.google.com/drive/folders/13-N0Gm4Ufk4v6gEAuZ2GQmihH2r9t4nh
 
 
